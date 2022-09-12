@@ -1,1 +1,3 @@
-
+#MIMIC-III is a freely accessible critical care database. Data includes vital signs, medications, laboratory measurements, observations and notes charted by care providers, fluid balance, procedure codes, diagnostic codes, imaging reports, hospital length of stay, survival data, and more [1].
+#I have done some practical exercises of data mining using MIMIC-III, according to the instructions of a course on Coursera.
+#[1]. Johnson, A., Pollard, T., Shen, L. et al. MIMIC-III, a freely accessible critical care database. Sci Data 3, 160035 (2016). https://doi.org/10.1038/sdata.2016.35
